@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+foundry.toml
+ReadOnlyReentrancy.sol
+sDai.t.sol
+
