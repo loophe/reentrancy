@@ -153,4 +153,8 @@ contract Re is Test{
         uint256 price = oracle.getAssetPrice(B_stETH_STABLE);
         console.log("Price during exit process :",price);
     }
+
+    //Logs:
+    //Price before : 1034659153774359740
+    //Price during exit process : 3017684359464299449
 }

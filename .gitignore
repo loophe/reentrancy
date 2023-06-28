@@ -17,3 +17,6 @@ foundry.toml
 ReadOnlyReentrancy.sol
 sDai.t.sol
 
+bin/
+
+
